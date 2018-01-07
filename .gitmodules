@@ -69,7 +69,7 @@
 	url = https://github.com/narusemotoki/replacer
 [submodule "pelican-toc"]
 	path = pelican-toc
-	url = https://github.com/ingwinlu/pelican-toc
+	url = https://github.com/peijunz/pelican-toc
 [submodule "multimarkdown_reader"]
 	path = multimarkdown_reader
 	url = https://github.com/dames57/multimarkdown_reader.git
