@@ -142,6 +142,3 @@
 [submodule "ipynb2pelican"]
 	path = ipynb2pelican
 	url = https://github.com/peijunz/ipynb2pelican
-[submodule "pelican-alias"]
-	path = pelican-alias
-	url = git@github.com:Nitron/pelican-alias.git
