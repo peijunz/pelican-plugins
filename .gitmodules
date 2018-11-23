@@ -142,3 +142,6 @@
 [submodule "ipynb2pelican"]
 	path = ipynb2pelican
 	url = https://github.com/peijunz/ipynb2pelican
+[submodule "similar_posts"]
+	path = similar_posts
+	url = https://github.com/davidlesieur/similar_posts.git
